@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoviExy</string>
+
+    <string name="error_loading_data">Error loading data</string>
+    <string name="no_data">No data</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="connection_time_out">Connection timed out</string>
+    <string name="device_not_connected_internet">Device is not connected to the internet</string>
+
+    <string name="ad_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_id_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
